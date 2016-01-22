@@ -14,10 +14,11 @@ For example
 peruvianFaceNum(3);
 ```
 
-If the number does not exist, it returns "agg tmr gg"
+
 
 Outputs: "Small eyes"
 
+If the number does not exist, it returns "agg tmr gg"
 
 #2) Call random peruvian traits:
 ```
