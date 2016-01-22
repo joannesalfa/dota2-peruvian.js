@@ -15,7 +15,7 @@ function peruvianFaceRandom(){
 
 //Call number of peruvian trait
 function peruvianFaceNum(num){
-  if (peruvian.hasOwnProperty(num) === true){
+  if (peruvianFace.hasOwnProperty(num) === true){
    return peruvianFace[num]
   }
   else {
