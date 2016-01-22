@@ -1,6 +1,9 @@
 # dota2-peruvian.js
 for trolling purposes
 
+![](http://i.imgur.com/tfKpVc9.gif)
+
+
 
 #1) Call peruvian traits:
 ```
