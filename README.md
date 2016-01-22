@@ -4,15 +4,17 @@ for trolling purposes
 
 #1) Call peruvian traits:
 ```
-peruvianFaceNum();
+peruvianFaceNum(#*);
 ```
 
-#*: you can choose 1,2,3,4,5 numbers.
+*: you can choose 1,2,3,4,5 numbers.
 For example
 
 ```
 peruvianFaceNum(3);
 ```
+
+If the number does not exist, it returns "agg tmr gg"
 
 Outputs: "Small eyes"
 
